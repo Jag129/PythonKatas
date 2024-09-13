@@ -1,7 +1,13 @@
+from ansible_collections.community.sap_libs.plugins.modules.sap_company import return_analysis
+
+
 def numbers_division(a, b):
     """
     Performs division on two integers.
     """
+
+    c = a / b
+    return c
 
 
 result = numbers_division(10, 3)

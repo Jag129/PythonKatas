@@ -2,6 +2,11 @@ def greeting(name):
     """
     Returns a personalized greeting message with the given `name`.
     """
+#    print("Please Insert Your Name")
+#    a = input("")
+
+#    return "Hello " + a
+    return f"Hello {name}"
 
 
 greeting_msg = greeting('David')
