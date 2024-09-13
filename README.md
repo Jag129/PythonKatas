@@ -29,7 +29,7 @@ _Kata_ is a Japanese word (型 or 形) meaning "form". It refers to a detailed c
 - [x] `bad_function.py`
 - [x] `fill_a_cab.py`
 - [x] `time_convertor.py`
-- [ ] `is_even.py`
-- [ ] `can_drive.py`
-- [ ] `can_drive2.py`
-- [ ] `assess_temperature.py`
+- [x] `is_even.py`
+- [x] `can_drive.py`
+- [x] `can_drive2.py`
+- [x] `assess_temperature.py`
