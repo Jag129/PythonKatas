@@ -10,9 +10,9 @@ result = calculator1(1, 1)  # 2 expected
 print(result)
 
 # TODO fill in the correct arguments
-print(calculator1())  # 0 expected
-print(calculator1())  # -8 expected
-print(calculator1())  # None expected
+print(calculator1(0,0))  # 0 expected
+print(calculator1(-4, -4))  # -8 expected
+print(calculator1(0.5, 0.5))  # None expected
 
 """
 To complete this exercise:

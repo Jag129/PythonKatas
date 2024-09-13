@@ -20,15 +20,15 @@ _Kata_ is a Japanese word (型 or 形) meaning "form". It refers to a detailed c
 - [x] `numbers_division.py`
 - [x] `personalized_hello_world.py`
 - [x] `age_message_fix.py`
-- [ ] `get_seconds.py`
-- [ ] `get_century.py`
-- [ ] `bad_average.py`
-- [ ] `calculator1.py`
-- [ ] `calculator2.py`
-- [ ] `tax_calc.py`
-- [ ] `bad_function.py`
-- [ ] `fill_a_cab.py`
-- [ ] `time_convertor.py`
+- [X] `get_seconds.py`
+- [x] `get_century.py`
+- [x] `bad_average.py`
+- [x] `calculator1.py`
+- [x] `calculator2.py`
+- [x] `tax_calc.py`
+- [x] `bad_function.py`
+- [x] `fill_a_cab.py`
+- [x] `time_convertor.py`
 - [ ] `is_even.py`
 - [ ] `can_drive.py`
 - [ ] `can_drive2.py`

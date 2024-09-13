@@ -1,7 +1,23 @@
+from duplicity.config import remove_time
+
+
 def time_convertor(value, unit):
     """
     Converts the given time value in the specified unit to seconds.
     """
+
+    if unit == 'seconds':
+        return value
+    elif unit == 'minutes':
+        return value * 60
+    elif unit == 'hours':
+        return value * 3600
+    elif unit == 'days':
+        return value * 86400
+    else:
+        return None
+
+
 
 
 converted_time_1 = time_convertor(2, 'minutes')

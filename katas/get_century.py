@@ -3,6 +3,7 @@ def get_century(year):
     Returns the century of the given year.
     """
     # Implement the function to return the correct century.
+    return (year + 99) // 100
 
 
 result = get_century(1786)
